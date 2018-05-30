@@ -2,7 +2,7 @@
 
 
 ===
-[预览](https://yizhiamumu.github.io/xiaoshu/public/)
+[预览](https://yizhiamumu.github.io/xiao/public/)
 ===
 
 
@@ -15,8 +15,8 @@
 3. 执行以下命令：
 
 ``` bash
-git clone https://github.com/yizhiamumu/xiaoshu.git
-cd xiaoshu
+git clone https://github.com/yizhiamumu/xiao.git
+cd xiao
 npm install
 npm run dev
 ```
